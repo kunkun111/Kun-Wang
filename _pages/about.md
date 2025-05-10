@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /https://kunkun111.github.io/Kun-Wang/
 title: "About me:"
 author_profile: true
 redirect_from: 
